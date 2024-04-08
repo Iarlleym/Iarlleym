@@ -3,7 +3,7 @@
 - 👨‍💻 Estudando e praticando a criação de websites responsivos e funcionais, utilizando HTML, CSS e JavaScript para projetos diversos.
 - 💻 Experimentando com tecnologias modernas como TypeScript para garantir código mais seguro e eficiente em seus projetos.
 - 💻 Trabalhando na criação de uma landing page e outros projetos web, focando em uma abordagem prática para consolidar o aprendizado.
-- 💻 Desenvolvendo um portfólio pessoal exclusivamente com HTML e CSS, demonstrando suas habilidades em design e estruturação web.
+- 💻 Desenvolvendo um portfólio pessoal exclusivamente com HTML, CSS e JavaScript, demonstrando suas habilidades em design e estruturação web.
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iarlleym)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
