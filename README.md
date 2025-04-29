@@ -1,9 +1,13 @@
 ## Eaí Blz!! Eu sou Iarlley mangueira
 Sou um Desenvolvedor Java com foco em backend e arquitetura de microsserviços, atualmente aprimorando meus conhecimentos em Análise e Desenvolvimento de Sistemas na UniFatecie. Possuo uma base sólida construída através de formações anteriores em Engenharia Civil e Tecnologia em Automação Industrial pelo IFPB, o que me proporciona uma perspectiva analítica e voltada para a resolução de problemas.
 Estou em transição de carreira para a área de desenvolvimento de software, apaixonado por criar soluções robustas, escaláveis e eficientes utilizando tecnologias modernas. Tenho experiência prática no desenvolvimento de aplicações distribuídas, aplicando fundamentos da programação orientada a objetos, princípios SOLID e boas práticas de código.
+
 🌱 Atualmente aprendendo e aprofundando conhecimentos em Java, Spring Ecosystem e arquiteturas de software.
+
 🎯 Buscando oportunidades de estágio na área de desenvolvimento para aplicar minhas habilidades e continuar crescendo profissionalmente.
+
 💡 Aberto a colaborações e novos desafios!
+
   ##
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iarlleym)](https://github.com/anuraghazra/github-readme-stats)
 <div style="display: inline_block"><br>
