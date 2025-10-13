@@ -27,10 +27,12 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 ---
 
 ## 📊 Estatísticas do GitHub
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent)  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Iarlleym&layout=compact)](https://github.com/Iarlleym)
+<div align="center">
 
----
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent)  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iarlleym)](https://github.com/Iarlleym)
+
+</div>
 
 ## 🕹 GitHub Snake Game
 <div align="center">
