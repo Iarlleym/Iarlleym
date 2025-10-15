@@ -48,6 +48,6 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 ## 📫 Contato
 <div>
   <a href="mailto:iarlleymangueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jos%C3%A9-iarlley-sabino-mangueira-86a1a9265/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="[https://www.linkedin.com/in/jos%C3%A9-iarlley-sabino-mangueira-86a1a9265/](https://github.com/Iarlleym)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   <a href="https://github.com/Iarlleym" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23000000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
