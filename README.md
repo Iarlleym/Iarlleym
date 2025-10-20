@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou **Iarlley Mangueira**
 
 🚀 **Desenvolvedor Java Backend & Microsserviços**  
-🎓 Atualmente cursando **Análise e Desenvolvimento de Sistemas** na UniFatecie.  
 💡 Formações anteriores em **Engenharia Civil** e **Tecnologia em Automação Industrial (IFPB)**, trazendo uma visão analítica e voltada para resolução de problemas.
 
 ---
