@@ -25,11 +25,11 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 
 ---
 
-## 📊 Estatísticas do GitHub (Metrics)
+## 📫 Stats rápidas
 <div align="center">
-
-![Metrics](https://metrics.lecoq.io/Iarlleym)
-
+  ![GitHub followers](https://img.shields.io/github/followers/Iarlleym?label=Followers&style=for-the-badge)
+  ![GitHub repos](https://img.shields.io/github/repos/Iarlleym?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/Iarlleym?style=for-the-badge)
 </div>
 
 
