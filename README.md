@@ -25,12 +25,13 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 
 ---
 
-## 📫 Stats rápidas
+## 📊 Estatísticas do GitHub
 <div align="center">
-  ![GitHub followers](https://img.shields.io/github/followers/Iarlleym?label=Followers&style=for-the-badge)
-  ![GitHub repos](https://img.shields.io/github/repos/Iarlleym?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/Iarlleym?style=for-the-badge)
+
+![Metrics](https://metrics.lecoq.io/Iarlleym?cache_bust=1)
+
 </div>
+
 
 
 ## 🕹 GitHub Snake Game
