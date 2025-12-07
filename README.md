@@ -25,13 +25,13 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub (Metrics)
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iarlleym&layout=compact&theme=transparent)
+![Metrics](https://metrics.lecoq.io/Iarlleym)
 
 </div>
+
 
 ## 🕹 GitHub Snake Game
 <div align="center">
