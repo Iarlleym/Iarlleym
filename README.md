@@ -28,8 +28,8 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iarlleym&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Iarlleym&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Iarlleym&layout=compact&theme=transparent)
 
 </div>
 
