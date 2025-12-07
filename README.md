@@ -28,9 +28,10 @@ Sou apaixonado por criar soluções **robustas, escaláveis e eficientes** utili
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/Iarlleym?cache_bust=1)
+![Metrics](https://metrics.lecoq.io/Iarlleym?template=classic&base=header,activity,community,repositories,metadata&plugin_languages=1&plugin_languages_limit=8&cache_bust=1)
 
 </div>
+
 
 
 
